@@ -1,0 +1,14 @@
+.button{
+    -fx-background-color: black;
+    -fx-border-radius: 5px;
+    -fx-border-color: #fff;
+    -fx-font-family: "Arial";
+    -fx-text-fill: #fff;
+    -fx-max-width: 70px;
+    -fx-width: 50%;
+    cursor: pointer;
+    -fx-float: left;
+    -fx-text-align: center;
+    -fx-background-radius: 5px;
+    -fx-background-insets: 0;
+}
